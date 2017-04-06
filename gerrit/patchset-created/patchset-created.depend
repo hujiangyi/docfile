@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441009985 source:d:\sup\app\gerrit\patchset-created\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1376898412 source:d:\project\doc\wh1\secret\code\gerrit\comment-added\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1376459676 d:\project\doc\wh1\secret\code\gerrit\comment-added\cjson.h
+
+1405401760 source:d:\project\doc\wh1\secret\code\gerrit\comment-added\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cJSON.h"
+	"tools.h"
+
+1403081624 d:\project\doc\wh1\secret\code\gerrit\comment-added\tools.h
+
+1403078390 source:d:\project\doc\wh1\secret\code\gerrit\comment-added\tools.c
+
+1376898412 source:d:\project\sup\app\gerrit\comment-added\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1376459676 d:\project\sup\app\gerrit\comment-added\cjson.h
+
+1405401760 source:d:\project\sup\app\gerrit\comment-added\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cJSON.h"
+	"tools.h"
+
+1403081624 d:\project\sup\app\gerrit\comment-added\tools.h
+
+1403078390 source:d:\project\sup\app\gerrit\comment-added\tools.c
+
+1376898412 source:d:\sup\app\gerrit\comment-added\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1376459676 d:\sup\app\gerrit\comment-added\cjson.h
+
+1403078390 source:d:\sup\app\gerrit\comment-added\tools.c
+
+1448328352 source:d:\sup\app\gerrit\comment-added\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cJSON.h"
+	"tools.h"
+
+1403081624 d:\sup\app\gerrit\comment-added\tools.h
+

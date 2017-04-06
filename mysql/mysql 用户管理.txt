@@ -1,0 +1,12 @@
+show grants for root;查看root用户的权限
+
+GRANT ALL ON samp_db.* TO boris@localhost IDENTIFIED BY "ruby"
+
+mysqladmin -u root password "newpass"
+
+
+如果root无法远程访问 可以执行下面的语句
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'ems' WITH GRANT OPTION;
+
+执行完之后需要重新连接才能起作用

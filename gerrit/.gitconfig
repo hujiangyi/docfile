@@ -1,0 +1,5 @@
+[user]
+	name = hujiangyi
+	email = hujiangyi@dvt.dvt.com
+[alias]
+	master = push origin HEAD:refs/for/master%r=hujiangyi,r=liyongcheng,r=haojie,r=lizongtian
