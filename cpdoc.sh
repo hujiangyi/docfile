@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ -z $1 ]; then
+    echo "file path is need."
+    exit 1
+fi
+
 rm -rf ../github_doctomd/book/*
 rm -rf ../github_doctomd/md/*
 cp -rf $1/ ../github_doctomd/book/$1
